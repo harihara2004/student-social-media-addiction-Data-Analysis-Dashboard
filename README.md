@@ -48,10 +48,8 @@ This is where the findings are brought to life visually. The cleaned and analyze
 -	Choosing the Right Visualizations: Selecting the most effective chart types to tell the data story. For example, a bar chart for daily hours by gender, or a scatter plot to show the correlation between two variables.
 -Layout and Organization: Arranging the charts in a logical flow, with the most important information at the top. The dashboard uses a clean design with distinct sections for different aspects of the analysis (e.g., Academic Impact, Mental Health).
 -	Adding Filters and Interactivity: The dashboard likely has interactive elements (like the filters for "Age Group" and "Gender") that allow the user to explore the data in more detail.
+-Is there a link between social media addiction and social anxiety or isolation?
+## Dashboard
+<img width="1423" height="721" alt="dashboad" src="https://github.com/user-attachments/assets/3f78fb4b-528a-4794-a72a-d2b3953cd389" />
 
-
-
-
-
-•	Is there a link between social media addiction and social anxiety or isolation?
 
