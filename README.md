@@ -1,5 +1,5 @@
 # STUDENT'S SOCIAL MEDIA ADDICTION DASHBOARD
-## he project aims to achieve this by:
+## The project aims to achieve this by:
 
 Quantifying Social Media Usage: Collecting and visualizing data on how much time students spend on social media and which platforms they use most frequently.
 	Assessing Impact on Academics: Measuring the correlation between social media use and academic performance, such as grades and study habits.
