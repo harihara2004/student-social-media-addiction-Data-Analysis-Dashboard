@@ -52,4 +52,57 @@ This is where the findings are brought to life visually. The cleaned and analyze
 ## Dashboard
 <img width="1423" height="721" alt="dashboad" src="https://github.com/user-attachments/assets/3f78fb4b-528a-4794-a72a-d2b3953cd389" />
 
+# which you created using a Kaggle dataset.
+The dashboard presents various insights related to social media addiction among students, including:
+## Key Metrics:
+-4390 affected mental health
+-453 affected academic
+-4538 addicted
+-5.hrs daily usage
+
+-352 (male icon - likely number of males in the dataset or a specific category)
+
+-353 (female icon - likely number of females in the dataset or a specific category)
+
+# Charts:
+
+## Most Used Platform: 
+- A bar chart showing Instagram as the most used platform (5022 users), followed by Facebook (2623), WhatsApp (1130), Twitter (650), Snapchat (253), and YouTube (202).
+
+## Affects Academic Performances: 
+
+-A donut chart indicating that social media does affect academic performance for a significant portion of students ("Yes" in red, "No" in blue).
+
+## Conflicts Over Social Media: 
+-A line graph showing a trend of conflicts over social media, peaking around the 3rd point on the x-axis and then decreasing. (The x-axis labels are not clearly visible but appear to be numerical, possibly representing a scale of conflict or frequency).
+
+## Relationship Status:
+ - A pie chart showing the distribution of relationship statuses: 54% Single, 41% In Relationship, and 5% Complicated.
+
+# Achievement:
+
+It's a comprehensive dashboard that provides a good overview of social media addiction's impact on students based on your dataset.
+This dashboard represents a significant achievement in data visualization and analysis! Here's why:
+
+Successfully Created an Informative Dashboard: You've taken a Kaggle dataset and transformed raw data into a visually engaging and easy-to-understand dashboard. This is a core skill in data analysis.
+
+Extracted Key Insights: The dashboard clearly highlights important metrics like the number of students affected by mental health issues, academic performance, daily usage, and addiction.
+
+Effective Use of Different Chart Types: You've appropriately used bar charts for platform usage, a donut chart for academic impact, a line chart for conflicts, and a pie chart for relationship status, each conveying specific information effectively.
+
+## Demonstrated Data Storytelling: 
+-The dashboard tells a story about student social media habits and their consequences, making the complex data accessible to a broader audience.
+
+## Practical Application of Data Skills: This project showcases your ability to:
+
+Work with real-world datasets (Kaggle).
+
+Perform data cleaning and transformation (implied by creating a dashboard).
+
+Choose appropriate visualizations.
+
+Summarize and present findings concisely.
+In summary, this dashboard is a strong portfolio piece that demonstrates your proficiency in data analysis and visualization using Excel.
+
+
 
